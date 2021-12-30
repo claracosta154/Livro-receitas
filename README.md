@@ -2,4 +2,4 @@
 
 <h3> Olá! bem vindo ao meu livro de receitas!
 
-<o/> Strogonoff de frango
+<0/> Strogonoff de frango
